@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/victorjordan95/bet20days.svg?branch=master)](https://travis-ci.org/victorjordan95/bet20days)
+
 # Bet20days
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
